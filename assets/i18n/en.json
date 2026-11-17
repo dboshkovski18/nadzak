@@ -19,5 +19,10 @@
   "Street address" : "Orce Nikolov 105",
   "City" : "Skopje",
   "Country" : "Macedonia",
-  "Est. 1982" : "Est. 1982"
+  "Est. 1982" : "Est. 1982",
+  "Nadzak" : "NADZAK",
+  "Gostilnica" : "RESTAURANT",
+  "Menu hint" : "Tap items to build your order list before calling",
+  "My order" : "My order",
+  "Call to order" : "Call to order"
 }
